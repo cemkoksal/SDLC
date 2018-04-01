@@ -1,0 +1,57 @@
+{
+    "active": 1,
+    "comments": {
+        "ce2ea094f7b54329a143719d6eb62d84": {
+            "cb4c-30cc-3fd0-ab9d-2854-af40": {
+                "commentId": "cb4c-30cc-3fd0-ab9d-2854-af40",
+                "widgetId": "ce2ea094f7b54329a143719d6eb62d84",
+                "formId": "ce2ea094f7b54329a143719d6eb62d84",
+                "createdOn": 1522511011000,
+                "createdById": "96486e42-d390-4719-84b5-21bca381f543",
+                "createdBy": "Skala Teknoloji",
+                "createdByEmail": "iletisim@skalateknoloji.com",
+                "lastModifiedTime": 1522511105000,
+                "comment": "güzel",
+                "commentSrc": "functional preview",
+                "active": 0,
+                "channel": "mobile"
+            },
+            "7c7e-d51c-b21c-27c0-05f7-dde1": {
+                "createdById": "b6bb363c-dfd8-4d55-b199-1be96eb60962",
+                "createdBy": "Cem Köksal",
+                "createdByEmail": "cem@skalateknoloji.com",
+                "commentId": "7c7e-d51c-b21c-27c0-05f7-dde1",
+                "label": "",
+                "createdOn": "1522511044273",
+                "lastModifiedTime": 1522511135844,
+                "active": 0,
+                "widgetId": "ce2ea094f7b54329a143719d6eb62d84",
+                "formId": "ce2ea094f7b54329a143719d6eb62d84",
+                "channel": "mobile",
+                "comment": "teşekkürler"
+            },
+            "2389-37d1-5d48-5511-e978-ed12": {
+                "createdById": "b6bb363c-dfd8-4d55-b199-1be96eb60962",
+                "createdBy": "Cem Köksal",
+                "createdByEmail": "cem@skalateknoloji.com",
+                "commentId": "2389-37d1-5d48-5511-e978-ed12",
+                "label": "",
+                "createdOn": "1522511069882",
+                "lastModifiedTime": 1522511137211,
+                "active": 0,
+                "widgetId": "ce2ea094f7b54329a143719d6eb62d84",
+                "formId": "ce2ea094f7b54329a143719d6eb62d84",
+                "channel": "mobile",
+                "comment": "bu da 2"
+            }
+        }
+    },
+    "noteGuid": "952107f3-2d07-4e3f-a52c-1ba4514363f2",
+    "projectGuid": "c2508694-04c0-406e-aecc-f4cb60c34bf9",
+    "accountGuid": "ab52d75c-db64-462c-a38f-6815913f861a",
+    "prototypeGuid": "H3TVL",
+    "id": "ce2ea094f7b54329a143719d6eb62d84",
+    "channel": "mobile",
+    "createdOn": 1522511127456,
+    "synced_on": "2018-03-31T15:50:33.529Z"
+}
