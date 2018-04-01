@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "sd46424d0a48489999a1e106acb70721",
-    "_text_": "Hello World",
+    "_text_": "Hello World !",
     "_top_": {
         "type": "string",
-        "value": "105dp"
+        "value": "67dp"
     },
     "_width_": {
         "type": "ref",

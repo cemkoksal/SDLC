@@ -1,9 +1,18 @@
 {
     "HEAD": "b5bd6bba562a44eeb173ca4df09eda53",
     "b5bd6bba562a44eeb173ca4df09eda53": {
-        "children": [],
+        "children": [
+            "gc7c44b4f5f84fccbada32553403dc80"
+        ],
         "kuid": "b5bd6bba562a44eeb173ca4df09eda53",
         "name": "Other Resources",
         "type": "D"
+    },
+    "gc7c44b4f5f84fccbada32553403dc80": {
+        "extension": "",
+        "kuid": "gc7c44b4f5f84fccbada32553403dc80",
+        "name": ".gitkeep",
+        "parent": "b5bd6bba562a44eeb173ca4df09eda53",
+        "type": "F"
     }
 }
